@@ -6,6 +6,6 @@
 
 An OOP space shooter game made in Processing, winter 2020.
 
-Include an image
+![SpaceGame](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/images/Code.png?raw=true)
 
 Include link to source code
