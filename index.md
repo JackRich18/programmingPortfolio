@@ -47,4 +47,12 @@ An application designed to ask for user's birthday to convert into different inc
 
 Source Code for project [here](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/src/Date.zip).
 
+### IO Questions
+
+An application designed to ask thought provoking questions and ask for user input to store on a separate file, used IO, made in Replit, spring 2021.
+
+![Questions](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/images/IOquestions.png?raw=true)
+
+Source Code for project [here](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/src/IO-exception%20(1).zip).
+
 
