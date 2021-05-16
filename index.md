@@ -30,11 +30,11 @@ Source Code for project [here](https://github.com/JackRich18/programmingPortfoli
 
 ## Replit Projects
 
-### Calculator
+### Madlibs
 
 An application designed to ask for user input to create a madlib, made in Processing, spring 2021.
 
 ![Madlib](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/images/Madlibs.png?raw=true)
 
-Source Code for project [here](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/src/Mablibs.zip). A Windows executable can be downloaded [here.](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/src/Calculator/application.windows64.zip)
+Source Code for project [here](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/src/Mablibs.zip).
 
