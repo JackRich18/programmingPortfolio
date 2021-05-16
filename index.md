@@ -26,3 +26,15 @@ An OOP application designed as a calulator, made in Processing, winter 2020.
 ![Calculator](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/images/Calc.png?raw=true)
 
 Source Code for project [here](https://github.com/JackRich18/programmingPortfolio/tree/gh-pages/src/Calculator). A Windows executable can be downloaded [here.](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/src/Calculator/application.windows64.zip)
+
+
+## Replit Projects
+
+### Calculator
+
+An application designed to ask for user input to create a madlib, made in Processing, spring 2021.
+
+![Madlib](hhttps://github.com/JackRich18/programmingPortfolio/blob/gh-pages/images/Madlibs.png?raw=true)
+
+Source Code for project [here](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/src/Mablibs.zip). A Windows executable can be downloaded [here.](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/src/Calculator/application.windows64.zip)
+
