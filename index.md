@@ -17,7 +17,7 @@ Source Code for project [here](https://github.com/JackRich18/programmingPortfoli
 
 ### Calculator
 
-An OOP space shooter game made in Processing, winter 2020.
+An OOP application designed as a calulator, made in Processing, winter 2020.
 
 ![Calculator](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/images/Calc.png?raw=true)
 
