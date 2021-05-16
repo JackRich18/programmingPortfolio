@@ -32,9 +32,19 @@ Source Code for project [here](https://github.com/JackRich18/programmingPortfoli
 
 ### Madlibs
 
-An application designed to ask for user input to create a madlib, made in Processing, spring 2021.
+An application designed to ask for user input to create a madlib, made in Replit, spring 2021.
 
 ![Madlib](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/images/Madlibs.png?raw=true)
 
 Source Code for project [here](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/src/Mablibs.zip).
+
+
+### Date
+
+An application designed to ask for user's birthday to convert into different increments of time lived, made in Replit, spring 2021.
+
+![Date](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/images/time.png?raw=true)
+
+Source Code for project [here](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/src/Date.zip).
+
 
