@@ -1,4 +1,6 @@
 # Jack Rich's Programming Portfolio 2020-2021
+I am studying Java and have passed a Semester 1 programming certification.
+[Jack Rich](mailto:jack.i.rich@gmail.com)
 
 ## Processing Projects
 
