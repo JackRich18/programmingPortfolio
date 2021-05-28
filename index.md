@@ -65,6 +65,10 @@ This an OOP application designed to give players a randomized question and allow
 
 This is the UML for the project.
 
-![quizGame]()
+![quizGame](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/images/quizGame.png)
+
+An executable version can be found [here]()
+
+Source Code for project [here]()
 
 
