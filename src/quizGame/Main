@@ -1,0 +1,34 @@
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+
+      System.out.println("welcome to the Quiz Game");
+      System.out.println("Please do not use any technology to come up with the answers, only use the integers in your answer");
+      System.out.println("For math please enter 1, for history enter 2, for science enter 3, for art enter 4, for geography enter 5");
+      Scanner sc = new Scanner(System.in);   
+      int num = sc.nextInt();
+      //int num = 1;
+      
+      //Math logic
+        if(num == 1){
+          System.out.println("Only include an integer, no units or decimals will be needed");
+          Math m = new Math();
+          m.mathPlay();
+      } if(num == 2){
+        History h = new History();
+        h.histPlay();
+      } if(num == 3){
+        Science s = new Science();
+        s.sciPlay();
+      } if(num == 4){
+        Art a = new Art();
+        a.arPlay();
+      } if(num == 5){
+        Geography g = new Geography();
+        g.geoPlay();
+      }
+      System.out.println("Thank you for playing");
+      System.out.println("Created by Jack Rich");
+    }
+  }
