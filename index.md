@@ -61,6 +61,10 @@ Source Code for project [here](https://github.com/JackRich18/programmingPortfoli
 
 This an OOP application designed to give players a randomized question and allows the user to answer using a scanner.
 
-![]
+![quizGameRunning](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/images/quizGameRun.png)
+
+This is the UML for the project.
+
+![quizGame]()
 
 
