@@ -67,7 +67,7 @@ This is the UML for the project.
 
 ![quizGame](https://github.com/JackRich18/programmingPortfolio/blob/gh-pages/images/quizGame.png)
 
-An executable version can be found [here](https://github.com/JackRich18/programmingPortfolio/tree/gh-pages/src/quizGame)
+An executable version can be found [here](https://replit.com/@JackRich18/quizGame#Main.java)
 
 Source Code for project [here](https://github.com/JackRich18/programmingPortfolio/tree/gh-pages/src/quizGame)
 
